@@ -1,0 +1,7 @@
+name: IceCrafter
+main: org.rearmed.IceCrafter.IceCrafter
+
+version: 0.2
+author: Steven Saric
+description: Allows the user to craft ice.
+website: http://rearmed.org/
